@@ -1,4 +1,4 @@
-# My Portfolio App
+# Landing Page Smooth Scroll
 > Landing page built with React and Styled Components
 
 ## Table of contents
